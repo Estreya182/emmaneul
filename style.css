@@ -1,0 +1,11 @@
+body{
+  text-align:center;
+background-color: antiquewhite;
+  
+}  
+
+#album
+{
+  width:450px;
+  border-radius:30px;
+}
